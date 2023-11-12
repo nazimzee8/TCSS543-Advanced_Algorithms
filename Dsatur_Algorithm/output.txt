@@ -1,0 +1,56 @@
+Size: 10 Density: 0.7767154940253916 Run Time: 0.09434299999999995 Minimum Colors: 5
+Size: 20 Density: 0.7767154940253916 Run Time: 0.054691000000000024 Minimum Colors: 8
+Size: 30 Density: 0.7767154940253916 Run Time: 0.109905 Minimum Colors: 14
+Size: 40 Density: 0.7767154940253916 Run Time: 0.16805200000000003 Minimum Colors: 17
+Size: 50 Density: 0.7767154940253916 Run Time: 0.20371000000000014 Minimum Colors: 19
+Size: 60 Density: 0.7767154940253916 Run Time: 0.20940199999999998 Minimum Colors: 21
+Size: 65 Density: 0.7767154940253916 Run Time: 0.2527170000000001 Minimum Colors: 22
+Size: 70 Density: 0.7767154940253916 Run Time: 0.28456299999999995 Minimum Colors: 23
+Size: 75 Density: 0.7767154940253916 Run Time: 0.32810300000000003 Minimum Colors: 23
+Size: 80 Density: 0.7767154940253916 Run Time: 0.36091000000000006 Minimum Colors: 25
+Size: 85 Density: 0.7767154940253916 Run Time: 0.42672700000000013 Minimum Colors: 26
+Size: 90 Density: 0.7767154940253916 Run Time: 0.564263 Minimum Colors: 27
+Size: 95 Density: 0.7767154940253916 Run Time: 0.5376679999999999 Minimum Colors: 28
+Size: 100 Density: 0.7767154940253916 Run Time: 0.574157 Minimum Colors: 29
+Size: 100 Density: 0.7767154940253916 Run Time: 0.559165 Minimum Colors: 29
+
+
+Size: 10 Density: 0.650527095030641 Run Time: 0.006662000000000002 Minimum Colors: 4
+Size: 20 Density: 0.650527095030641 Run Time: 0.02373800000000001 Minimum Colors: 7
+Size: 30 Density: 0.650527095030641 Run Time: 0.051433000000000034 Minimum Colors: 10
+Size: 40 Density: 0.650527095030641 Run Time: 0.09598500000000001 Minimum Colors: 12
+Size: 50 Density: 0.650527095030641 Run Time: 0.14284699999999995 Minimum Colors: 13
+Size: 60 Density: 0.650527095030641 Run Time: 0.219311 Minimum Colors: 14
+Size: 65 Density: 0.650527095030641 Run Time: 0.22863799999999998 Minimum Colors: 15
+Size: 70 Density: 0.650527095030641 Run Time: 0.25170400000000004 Minimum Colors: 15
+Size: 75 Density: 0.650527095030641 Run Time: 0.31902399999999986 Minimum Colors: 16
+Size: 80 Density: 0.650527095030641 Run Time: 0.3283489999999999 Minimum Colors: 16
+Size: 85 Density: 0.650527095030641 Run Time: 0.40009500000000003 Minimum Colors: 17
+Size: 90 Density: 0.650527095030641 Run Time: 0.424745 Minimum Colors: 18
+Size: 95 Density: 0.650527095030641 Run Time: 0.46794999999999987 Minimum Colors: 18
+Size: 100 Density: 0.650527095030641 Run Time: 0.54178 Minimum Colors: 19
+Size: 100 Density: 0.650527095030641 Run Time: 0.5703510000000002 Minimum Colors: 19
+
+
+Size: 35 Density: 0.5678096977465733 Run Time: 0.06711800000000001 Minimum Colors: 9
+Size: 45 Density: 0.5678096977465733 Run Time: 0.11205300000000004 Minimum Colors: 10
+Size: 55 Density: 0.5678096977465733 Run Time: 0.15776900000000008 Minimum Colors: 11
+Size: 70 Density: 0.5678096977465733 Run Time: 0.25418099999999993 Minimum Colors: 12
+Size: 75 Density: 0.5678096977465733 Run Time: 0.275955 Minimum Colors: 13
+Size: 80 Density: 0.5678096977465733 Run Time: 0.31063299999999994 Minimum Colors: 12
+Size: 85 Density: 0.5678096977465733 Run Time: 0.3658889999999999 Minimum Colors: 13
+Size: 90 Density: 0.5678096977465733 Run Time: 0.418153 Minimum Colors: 13
+Size: 95 Density: 0.5678096977465733 Run Time: 0.47591200000000006 Minimum Colors: 14
+Size: 100 Density: 0.5678096977465733 Run Time: 0.565884 Minimum Colors: 14
+
+
+Size: 35 Density: 0.3009312740206559 Run Time: 0.05009 Minimum Colors: 5
+Size: 45 Density: 0.3009312740206559 Run Time: 0.09355499999999997 Minimum Colors: 5
+Size: 55 Density: 0.3009312740206559 Run Time: 0.10860900000000004 Minimum Colors: 6
+Size: 70 Density: 0.3009312740206559 Run Time: 0.16691900000000004 Minimum Colors: 6
+Size: 75 Density: 0.3009312740206559 Run Time: 0.20427199999999998 Minimum Colors: 6
+Size: 80 Density: 0.3009312740206559 Run Time: 0.2194950000000001 Minimum Colors: 6
+Size: 85 Density: 0.3009312740206559 Run Time: 0.244222 Minimum Colors: 6
+Size: 90 Density: 0.3009312740206559 Run Time: 0.28979899999999986 Minimum Colors: 6
+Size: 95 Density: 0.3009312740206559 Run Time: 0.317511 Minimum Colors: 6
+Size: 100 Density: 0.3009312740206559 Run Time: 0.36128400000000005 Minimum Colors: 7
